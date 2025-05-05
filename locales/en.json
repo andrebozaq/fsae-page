@@ -1,0 +1,55 @@
+{
+	"Hero": {
+	  "h1": "Igniting Innovation, One Race at a Time!",
+	  "h2": "Get the latest news and updates from the Formula SAE racing team at la Universidad del Zulia."
+	},
+	"Feature": {
+	  "h2": "Our Milestones",
+	  "h3": "Discover what our chapter has achieved over the years",
+	  "description1": "a timeline could also be a cool option, let's explore that",
+	  "description2": "maybe we should add some photos",
+	  "description3": "gotta add photos of our sponsors! **oops, almost forgot lol**"
+	},
+	"Pricing": {
+	  "h2": "Our Partners",
+	  "h3": "Meet the incredible sponsors who power us",
+	  "description": "find out how you can fuel our success",
+	  "doYouLike": "Loving this landing page template?",
+	  "follow": "Catch me on Twitter."
+	},
+	"Testimonial": {
+	  "h2": "Team FSAE LUZ",
+	  "h3": "Meet the Crew",
+	  "description1": "If our journey resonates with you or you'd like to share your own story,",
+	  "description2": "we'd love to hear from you!",
+	  "description3": ", here's the amazing team."
+	},
+	"Faq": {
+	  "h2": "Got Questions?",
+	  "h3": "Frequently Asked Questions",
+	  "description": "Here are some of the most common inquiries we receive."
+	},
+	"CTA": {
+	  "h2": "Power Our Team!",
+	  "h3": "Join the excitement and help us reach the finish line!"
+	},
+	"CTAButton": {
+	  "btn1": "Support us",
+	  "btn2": "View Presentation"
+	},
+	"About": {
+	  "h1": "About Us",
+	  "h2": "Born in 2006 within the Faculty of Engineering at the esteemed University of Zulia, the Formula SAE LUZ competition team is a passionate student collective. Our core mission is to conceive, construct, and race a prototype vehicle in the prestigious “FORMULA SAE INTERNATIONAL” event, hosted by the Society of Automotive Engineers (SAE) in Michigan, USA.",
+	  "why": "Why Drive With Us?",
+	  "why_content": "Leveraging the extensive experience and knowledge cultivated at the Faculty of Engineering of the distinguished University of Zulia, we're ready to tackle and conquer... hmm, gotta brainstorm what compelling content to put here lol.",
+	  "team": "Meet the Driving Force",
+	  "team_content": "Our team comprises dedicated students from the Faculty of Engineering at the renowned University of Zulia. We firmly believe that through tight-knit collaboration and continuous learning, we can achieve peak performance in developing our single-seater race car for the ultimate challenge in Michigan."
+	},
+	"Blog": {
+	  "title": "Blog",
+	  "description": "Explore our latest insights and stories on our dedicated blog page",
+	  "side1": "Overview",
+	  "side2": "Trending Posts",
+	  "side3": "Fresh Off the Press"
+	}
+  }

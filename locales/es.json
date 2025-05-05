@@ -1,0 +1,55 @@
+{
+	"Hero": {
+		"h1": "Impulsando la Innovación, una carrera a la vez!",
+		"h2": "Mantente al día con las últimas noticias y actualizaciones del equipo de carreras Fórmula SAE de La Universidad del Zulia."
+	},
+	"Feature": {
+		"h2": "Nuestros logros",
+		"h3": "Mira lo que la seccional ha alcanzado a lo largo de los anhos",
+		"description1": "un timeline tmb podria ser buuena opcion hay q ver",
+		"description2": "quiza anhadir fotos",
+		"description3": "anhadir fotos a los sponsors ** se me olvidaba jeje"
+	},
+	"Pricing": {
+		"h2": "Nuestros sponsors",
+		"h3": "Conoce a nuestros patrocinadores",
+		"description": "descubre como puedes ayudarnos",
+		"doYouLike": "¿Te gusta esta plantilla de página de destino?",
+		"follow": "Sigue mi Twitter."
+	},
+	"Testimonial": {
+		"h2": "Team FSAE LUZ",
+		"h3": "Miembros del equipo",
+		"description1": "Si conectas con nuestras historias o quieres compartir tu experiencia con nosotros,",
+		"description2": "por favor háznos saber",
+		"description3": ", aca esta el equipo."
+	},
+	"Faq": {
+		"h2": "Por si tienes una duda",
+		"h3": "Preguntas Frecuentes",
+		"description": "Aquí están algunas de las cosas que mas nos preguntan."
+	},
+	"CTA": {
+		"h2": "Unete a nuestro equipo",
+		"h3": "Se parte de esta experiencia y ayudanos a ganar!"
+	},
+	"CTAButton": {
+		"btn1": "Apoyanos",
+		"btn2": "Ver presentación"
+	},
+	"About": {
+		"h1": "Sobre Nosotros",
+		"h2": "El equipo de competencia Formula SAE LUZ es un grupo estudiantil nacido en el año 2006 en la Facultad de Ingeniería de la ilustre Universidad del Zulia. Nuestro objetivo principal es diseñar y construir un prototipo de carreras destinado a participar en la competencia “FORMULA SAE INTERNATIONAL” auspiciada por la Sociedad de Ingenieros Automotrices (SAE) en Michigan, Estados Unidos.",
+		"why": "Por qué apoyarnos",
+		"why_content": "Con toda la de experiencia y conocimientos adquiridos en la facultad de ingeniería de la ilustre universidad del Zulia, podemos adentrarnos y resolver no se xd lo que sea hay que ver q ppongo aqui jeje.",
+		"team": "Presentación del equipo",
+		"team_content": "Nuestro equipo está compuesto por estudiantes de la facultad de ingeniería de la ilustre Universidad del Zulia. Creemos que solo a través del trabajo en equipo cercano y el aprendizaje continuo podemos proporcionar el el mejor rendimiento para el desarrollo del vehículo monoplaza para ir a competir en Michigan."
+	},
+	"Blog": {
+		"title": "Blog",
+		"description": "Esta es una descripción de la página de lista de blogs separada",
+		"side1": "Descripción",
+		"side2": "Blogs Populares",
+		"side3": "Actualizados Recientemente"
+	}
+}
