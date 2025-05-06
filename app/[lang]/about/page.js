@@ -21,7 +21,7 @@ export default function Page({ params }) {
 			setDict(d);
 		};
 		fetchDictionary();
-	}, []);
+	}, );
 
 	const pathname = usePathname();
 	const [langName, setLangName] = useState(params.lang || defaultLocale);
