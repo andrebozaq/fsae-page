@@ -23,51 +23,55 @@ export default function Footer() {
 	}, [pathname, langName]);
 
 	return (
-		<footer className='w-full px-5 py-10 bg-[#202020] text-[#f7f7f7] '>
-			<div className='container mx-auto flex flex-col md:flex-row justify-between items-center md:items-end gap-2 text-sm'>
-				<div className='flex flex-col items-center md:items-start'>
-					<a
-						aria-label='landing page template'
-						className='flex items-center mb-3'
-						title='FSAE LUZ'
-						href={`/${langName}`}
-					>
-						<Image
-							width={200}
-							height={200}
-							src={'/fsae.png'}
-							className='transition-all hover:scale-110 w-6 md:w-10 h-6 md:h-10'
-							alt='logo'
-						></Image>
-						<h2 className='ml-3 font-bold leading-5'>FSAE LUZ</h2>
-					</a>
-					<div className='flex flex-wrap justify-center gap-x-2 md:gap-x-5 gap-y-1'>
-						{linkList.map((link, index) => {
-							return (
-								<a
-									key={index}
-									title={link.name}
-									href={`/${langName}${link.url}`}
-								>
-									{link.name}
-								</a>
-							);
-						})}
-					</div>
-				</div>
+		<footer className='w-full px-5 py-10 bg-[#202020] text-[#f7f7f7]'>
+    <div className='container mx-auto flex flex-col md:flex-row justify-between items-center md:items-end gap-5 text-sm'>
+        {/* Logo and Links Section */}
+        <div className='flex flex-col items-center md:items-start text-center md:text-left'>
+            <a
+                aria-label='landing page template'
+                className='flex items-center mb-5'
+                title='FSAE LUZ'
+                href={`/${langName}`}
+            >
+                <Image
+                    width={200}
+                    height={200}
+                    src={'/fsae.png'}
+                    className='transition-all hover:scale-110 w-10 md:w-12 h-10 md:h-12'
+                    alt='logo'
+                ></Image>
+                <h2 className='ml-3 font-bold leading-5 text-lg md:text-xl'>FSAE LUZ</h2>
+            </a>
+            <div className='flex flex-wrap justify-center md:justify-start gap-x-3 md:gap-x-5 gap-y-2'>
+                {linkList.map((link, index) => {
+                    return (
+                        <a
+                            key={index}
+                            title={link.name}
+                            href={`/${langName}${link.url}`}
+                            className='hover:underline'
+                        >
+                            {link.name}
+                        </a>
+                    );
+                })}
+            </div>
+        </div>
 
-				<p>
-					©{' '}
-					<a
-						title={'fsaeluz'}
-						href='https://www.instagram.com/formulasaeluz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='
-						target='_blank'
-					>
-						FSAELUZ
-					</a>{' '}
-					2025. All rights reserved.
-				</p>
-			</div>
-		</footer>
+        {/* Copyright Section */}
+        <p className='text-center md:text-right mt-5 md:mt-0'>
+            ©{' '}
+            <a
+                title={'fsaeluz'}
+                href='https://www.instagram.com/formulasaeluz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='
+                target='_blank'
+                className='hover:underline'
+            >
+                FSAELUZ
+            </a>{' '}
+            2025. All rights reserved.
+        </p>
+    </div>
+</footer>
 	);
 }

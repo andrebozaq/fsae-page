@@ -35,14 +35,14 @@
 	},
 	"CTAButton": {
 		"btn1": "Apoyanos",
-		"btn2": "Ver presentación"
+		"btn2": "Ver video"
 	},
 	"About": {
 		"h1": "Sobre Nosotros",
 		"h2": "El equipo de competencia Formula SAE LUZ es un grupo estudiantil nacido en el año 2006 en la Facultad de Ingeniería de la ilustre Universidad del Zulia. Nuestro objetivo principal es diseñar y construir un prototipo de carreras destinado a participar en la competencia “FORMULA SAE INTERNATIONAL” auspiciada por la Sociedad de Ingenieros Automotrices (SAE) en Michigan, Estados Unidos.",
 		"why": "Por qué apoyarnos",
 		"why_content": "Con toda la de experiencia y conocimientos adquiridos en la facultad de ingeniería de la ilustre universidad del Zulia, podemos adentrarnos y resolver no se xd lo que sea hay que ver q ppongo aqui jeje.",
-		"team": "Presentación del equipo",
+		"team": "El equipo",
 		"team_content": "Nuestro equipo está compuesto por estudiantes de la facultad de ingeniería de la ilustre Universidad del Zulia. Creemos que solo a través del trabajo en equipo cercano y el aprendizaje continuo podemos proporcionar el el mejor rendimiento para el desarrollo del vehículo monoplaza para ir a competir en Michigan."
 	},
 	"Blog": {
