@@ -1,0 +1,60 @@
+{
+	"Hero": {
+	  "h1": "FSAE LUZ competition team",
+	  "h2": "Meet the team, their challenges, and how you can support us. At FSAE LUZ, students and professors from La Universidad del Zulia combine creativity, knowledge, and teamwork to design a Formula-style race car."
+	},
+	"Feature": {
+	  "h2": "Our Achievements",
+	  "h3": "FSAE LUZ over the years",
+	  "description1": "A story of passion, perseverance, and dreams to fulfill, forged by generations of",
+	  "description2": "students who have brought LUZ's engineering potential all over the world."
+	},
+	"Pricing": {
+	  "h2": "Our sponsors",
+	  "h3": "Meet the people who power us",
+	  "description": "They believe in our potential and make it possible for us to keep moving forward.",
+	  "doYouLike": "Loving this landing page template?",
+	  "btn1": "All sponsors",
+	  "btn2": "Support us",
+	  "tier1": "Platinum",
+	  "tier2": "Gold",
+	  "tier3": "Silver",
+	  "tier4": "Bronze",
+	  "sponsors": "Sponsors"
+	},
+	"Testimonial": {
+	  "h2": "Team FSAE LUZ",
+	  "h3": "Team members",
+	  "description1": "If our stories inspire you or you wish to share your experience with us, ",
+	  "description2": "let us know! ",
+	  "description3": "We introduce the team that makes this project possible:"
+	},
+	"Faq": {
+	  "h2": "Got questions?",
+	  "h3": "Frequently asked questions",
+	  "description": "Here are some of the most common inquiries we receive."
+	},
+	"CTA": {
+	  "h2": "Join our team!",
+	  "h3": "Be part of this incredible experience at FSAE LUZ and accelerate the future of engineering."
+	},
+	"CTAButton": {
+	  "btn1": "Contact us",
+	  "btn2": "Watch video"
+	},
+	"About": {
+	  "h1": "About Us",
+	  "h2": "The Formula SAE LUZ competition team was born in 2004 within the School of Engineering at the University of Zulia. More than 20 years later, we are resuming the project to strengthen and reinvent it, laying solid foundations for future generations and their participation in international competitions.",
+	  "why": "Why support the team ",
+	  "why_content": "Because by supporting us, you sow knowledge, propel dreams on wheels, and contribute to shaping the talent that will build the future of Venezuelan engineering. Your support leaves a mark on education, engineering, and the country's future.",
+	  "team": "The team",
+	  "team_content": "Our team is composed of students and professors from the School of Engineering at the illustrious University of Zulia, united by a passion for engineering, learning, and teamwork. Together, we design, build, and dream of taking FSAE LUZ to the highest levels, both on and off the track."
+	},
+	"Blog": {
+	  "title": "Blog",
+	  "description": "Explore our latest insights and stories on our dedicated blog page",
+	  "side1": "Overview",
+	  "side2": "Trending Posts",
+	  "side3": "Fresh Off the Press"
+	}
+  }

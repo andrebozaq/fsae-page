@@ -1,0 +1,61 @@
+{
+	"Hero": {
+		"h1": "Fundación formula SAE LUZ",
+		"h2": "Conoce al equipo, sus retos y cómo puedes apoyarnos. En FSAE LUZ, estudiantes y profesores de la Universidad del Zulia combinan creatividad, conocimiento y trabajo en equipo para diseñar un monoplaza tipo fórmula."
+	},
+	"Feature": {
+		"h2": "Nuestros logros",
+		"h3": "A través de los años",
+		"description1": "Una historia de pasión, constancia y sueños por cumplir, forjada por generaciones de",
+		"description2": "estudiantes que han llevado la ingeniería de LUZ a las pistas del mundo."
+	},
+	"Pricing": {
+		"h2": "Nuestros sponsors",
+		"h3": "Conoce a nuestros patrocinadores",
+		"description": "Ellos creen en nuestro potencial y hacen posible que sigamos avanzando.",
+		"doYouLike": "¿Te gusta esta plantilla de página de destino?",
+		"btn1": "Todos los patrocinantes",
+		"btn2": "Apóyanos",
+
+		"tier1": "Platino",
+		"tier2": "Oro",
+		"tier3": "Plata",
+		"tier4": "Bronce",
+		"sponsors": "Patrocinadores"
+	},
+	"Testimonial": {
+		"h2": "Team FSAE LUZ",
+		"h3": "Miembros del equipo",
+		"description1": "Si nuestras historias te inspiran o deseas compartir tu experiencia con nosotros, ",
+		"description2": "háznos saber!",
+		"description3": "   Te presentamos al equipo que hace posible este proyecto:"
+	},
+	"Faq": {
+		"h2": "¿Tienes alguna duda?",
+		"h3": "Preguntas frecuentes",
+		"description": "Aquí están algunas de las cosas que nos suelen preguntar."
+	},
+	"CTA": {
+		"h2": "¡Únete a nuestro equipo!",
+		"h3": "Sé parte de esta increíble experiencia en FSAE LUZ y acelera el futuro de la ingeniería."
+	},
+	"CTAButton": {
+		"btn1": "Contáctanos",
+		"btn2": "Ver video"
+	},
+	"About": {
+		"h1": "Sobre Nosotros",
+		"h2": "El equipo de competencia Formula SAE LUZ nació en 2004 en la Facultad de Ingeniería de la Universidad del Zulia; más de 20 años después, retomamos el proyecto para fortalecerlo, reinventarlo y dejar bases sólidas para futuras generaciones y su participación en competencias internacionales. ",
+		"why": "Por qué apoyarnos",
+		"why_content": "Porque al apoyarnos, siembras conocimiento, impulsas sueños sobre ruedas y contribuimos a formar el talento que construirá el futuro de la ingeniería venezolana. Tu apoyo deja huella en la educación, la ingeniería y el futuro del país.",
+		"team": "El equipo",
+		"team_content": "Nuestro equipo está compuesto por estudiantes y profesores de la facultad de ingeniería de la ilustre Universidad del Zulia, unidos por la pasión por la ingeniería, el aprendizaje y el trabajo en equipo. Juntos, diseñamos, construimos y soñamos con llevar a FSAE LUZ a lo más alto, dentro y fuera de la pista."
+	},
+	"Blog": {
+		"title": "Blog",
+		"description": "Esta es una descripción de la página de lista de blogs separada",
+		"side1": "Descripción",
+		"side2": "Blogs Populares",
+		"side3": "Actualizados Recientemente"
+	}
+}
