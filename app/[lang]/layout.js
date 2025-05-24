@@ -29,6 +29,23 @@ export async function generateMetadata({ params }) {
 	};
 }
 
+export function generateOgHead(lang) {
+	if (lang !== 'es') return null;
+	return (
+		<>
+			<meta property="og:title" content="FSAE LUZ" />
+			<meta property="og:description" content="Esta es la página oficial de la seccional formula sae de la universidad del zulia" />
+			<meta property="og:image" content="https://fsaeluz.netlify.app/fsae.png" />
+			<meta property="og:url" content="https://fsaeluz.netlify.app/" />
+		</>
+	);
+}
+
+export function Head({ params }) {
+	const lang = params?.lang || 'es';
+	return generateOgHead(lang);
+}
+
 export default function LangLayout({ children, params }) {
 	// 获取当前语言
 	const lang = params?.lang || defaultLocale;
