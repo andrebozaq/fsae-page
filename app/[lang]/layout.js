@@ -29,21 +29,16 @@ export async function generateMetadata({ params }) {
 	};
 }
 
-export function generateOgHead(lang) {
-	if (lang !== 'es') return null;
+// Always use English OG meta tags for all locales
+export function Head() {
 	return (
 		<>
 			<meta property="og:title" content="FSAE LUZ" />
-			<meta property="og:description" content="Esta es la página oficial de la seccional formula sae de la universidad del zulia" />
+			<meta property="og:description" content="This is the official website of the fsae team from La Universidad del Zulia." />
 			<meta property="og:image" content="https://fsaeluz.netlify.app/fsae.png" />
 			<meta property="og:url" content="https://fsaeluz.netlify.app/" />
 		</>
 	);
-}
-
-export function Head({ params }) {
-	const lang = params?.lang || 'es';
-	return generateOgHead(lang);
 }
 
 export default function LangLayout({ children, params }) {
