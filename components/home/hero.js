@@ -71,7 +71,7 @@ export default function Hero({ locale, CTALocale }) {
                             <a
                                 title='compose email'
                                 className='btn btn-md md:btn-lg btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full flex items-center justify-center gap-2 px-6 py-3 md:px-8 md:py-4 text-base md:text-lg text-center'
-                                href="mailto:arodriguez.fsaeluz@gmail.com?subject=FSAE%20LUZ%20Asesoria&body=Saludos%20FSAE%20LUZ,%0A%0AQuisiera%20informacion%20sobre..."
+                                href="mailto:formula.fsaeluz@fing.luz.edu.ve?subject=FSAE%20LUZ%20Asesoria&body=Saludos%20FSAE%20LUZ,%0A%0AQuisiera%20informacion%20sobre..."
                             >
                                 <CiMail size={20} />
                                 {CTALocale.btn1}
